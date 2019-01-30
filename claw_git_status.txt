@@ -1,0 +1,91 @@
+Clawpack Git Status 
+Diffs can be found in /Users/hudaqureshi/clawpack/claw_git_diffs.txt
+
+Wed, 30 Jan 2019 11:44:57 EST
+$CLAW = /Users/hudaqureshi/clawpack
+$FC = gfortran
+
+
+===========
+classic
+===========
+/Users/hudaqureshi/clawpack/classic
+
+--- last commit ---
+c4a3949 Merge remote-tracking branch 'upstream/master'
+
+--- branch and status ---
+## master...origin/master [behind 1]
+
+
+===========
+amrclaw
+===========
+/Users/hudaqureshi/clawpack/amrclaw
+
+--- last commit ---
+084af6a Merge remote-tracking branch 'upstream/master'
+
+--- branch and status ---
+## master...origin/master
+
+
+===========
+clawutil
+===========
+/Users/hudaqureshi/clawpack/clawutil
+
+--- last commit ---
+8ffa6a7 Merge remote-tracking branch 'upstream/master'
+
+--- branch and status ---
+## master...origin/master
+
+
+===========
+pyclaw
+===========
+/Users/hudaqureshi/clawpack/pyclaw
+
+--- last commit ---
+079bc28 Merge remote-tracking branch 'upstream/master'
+
+--- branch and status ---
+## master...origin/master
+
+
+===========
+visclaw
+===========
+/Users/hudaqureshi/clawpack/visclaw
+
+--- last commit ---
+6555227 Update visclaw
+
+--- branch and status ---
+## master...origin/master [ahead 1]
+
+
+===========
+riemann
+===========
+/Users/hudaqureshi/clawpack/riemann
+
+--- last commit ---
+45004b1 Merge pull request #138 from aks2203/master
+
+--- branch and status ---
+## master...origin/master
+
+
+===========
+geoclaw
+===========
+/Users/hudaqureshi/clawpack/geoclaw
+
+--- last commit ---
+ae9d6e2 Update master
+
+--- branch and status ---
+## master...origin/master [ahead 1]
+ M examples/storm-surge/ike/xgeoclaw

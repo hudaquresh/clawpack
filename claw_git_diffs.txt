@@ -1,0 +1,52 @@
+Clawpack git diffs...
+
+===========
+classic
+===========
+/Users/hudaqureshi/clawpack/classic
+
+
+
+===========
+amrclaw
+===========
+/Users/hudaqureshi/clawpack/amrclaw
+
+
+
+===========
+clawutil
+===========
+/Users/hudaqureshi/clawpack/clawutil
+
+
+
+===========
+pyclaw
+===========
+/Users/hudaqureshi/clawpack/pyclaw
+
+
+
+===========
+visclaw
+===========
+/Users/hudaqureshi/clawpack/visclaw
+
+
+
+===========
+riemann
+===========
+/Users/hudaqureshi/clawpack/riemann
+
+
+
+===========
+geoclaw
+===========
+/Users/hudaqureshi/clawpack/geoclaw
+
+diff --git a/examples/storm-surge/ike/xgeoclaw b/examples/storm-surge/ike/xgeoclaw
+index 4d28226..181668d 100755
+Binary files a/examples/storm-surge/ike/xgeoclaw and b/examples/storm-surge/ike/xgeoclaw differ
